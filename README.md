@@ -94,7 +94,9 @@ Users should validate all recommendations against:
 This repository is continuously reviewed and updated as Microsoft Purview and governance best practices evolve.
 
 ## Contributing
-Feedback, suggestions, issue reports, and improvements are welcome.
+This repository is publicly available for learning and reference purposes.
+Contributions from the community are welcome through Issues and Pull Requests, however all updates are reviewed and approved by the repository owner.
+Direct repository modifications are restricted.
 The objective of this repository is to continuously improve governance guidance and make governance adoption more practical for organizations implementing Microsoft Purview.
 As governance practices evolve, content will be updated accordingly.
 
