@@ -8,12 +8,11 @@ Many organizations successfully deploy Microsoft Purview but struggle to achieve
 The objective of this framework is to help organizations establish a governance operating model that enables business teams to participate in governance activities without requiring deep technical expertise or direct access to sensitive data.
 
 This guidance is applicable to:
-
-Government organizations
-Financial institutions
-Healthcare providers
-Retail organizations
-Manufacturing companies
-Higher education institutions
+- Government organizations
+- Financial institutions
+- Healthcare providers
+- Retail organizations
+- Manufacturing companies
+- Higher education institutions
 
 The framework is based on common Microsoft Purview implementation patterns and governance best practices. It aligns with [Microsoft guidance](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/data/governance-security-baselines-purview-data-estate-unify-data-platform) around Governance Domains, Business Glossaries, Data Products, Data Quality and Stewardship.
