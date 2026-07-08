@@ -1,5 +1,5 @@
-# icrosoft Purview Governance Operating Model Accelerator
-A practical guide for building sustainable Data Governance adoption.
+# Microsoft Purview Governance Operating Model Accelerator
+A practical guide for building sustainable Data Governance adoption. This repository is an independent community project and is not an official Microsoft repository.
 
 > [!IMPORTANT]
 > This repository is a personal knowledge-sharing project maintained independently by the repository owner.
