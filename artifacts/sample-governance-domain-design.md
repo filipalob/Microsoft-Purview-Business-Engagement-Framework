@@ -1,24 +1,16 @@
 # Governance Domain Example
 
 ## Customer Operations
-
-── Customer Acquisition
-
-── Customer Service
-
-── Customer Retention
+- Customer Acquisition
+- Customer Service
+- Customer Retention
 
 ## Finance
-── Accounts Payable
-
-── Accounts Receivable
-
-── General Ledger
-
+- Accounts Payable
+- Accounts Receivable
+- General Ledger
 
 ## Human Resources
-── Workforce
-
-── Payroll
-
-── Recruiting
+- Workforce
+- Payroll
+- Recruiting
